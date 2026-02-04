@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**NikolenkoRostislav/NikolenkoRostislav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👤 Who I Am
+I'm Rostislav Nikolenko, a software engineering student based in Germany.  
+I mainly focus on backend development and building scalable web applications and APIs.
+I enjoy building practical real-world projects.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- Backend: Python, FastAPI, Redis, PostgreSQL, Celery
+- Frontend: React, TypeScript, Tailwind CSS
+- Other: Docker, Git, Linux, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚧 What I'm Currently Working On
+- IT Job Scraper: a fullstack application for aggregating and filtering IT job listings from multiple sources.
+
+### 📫 How to Reach Me
+- Emaill: rostislavnikolenkowork@gmail.com
+- Phone Number: +4915755896862 
