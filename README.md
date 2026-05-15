@@ -6,12 +6,12 @@ I mainly focus on backend development and building scalable web applications and
 I enjoy building practical real-world projects.
 
 ### 🛠 Tech Stack
-- Backend: Python, FastAPI, Redis, PostgreSQL, Celery
-- Frontend: React, TypeScript, Tailwind CSS
+- Backend: Go, Python, FastAPI, Redis, PostgreSQL, Celery
+- Frontend: React, Vue, TypeScript, Tailwind CSS
 - Other: Docker, Git, Linux, VS Code
 
 ### 🚧 What I'm Currently Working On
-- IT Job Scraper: a fullstack application for aggregating and filtering IT job listings from multiple sources.
+- Nandev Backend: Backend for a TUI SWE Agent aimed at making the most out of smaller models 
 
 ### 📫 How to Reach Me
 - Emaill: rostislavnikolenkowork@gmail.com
