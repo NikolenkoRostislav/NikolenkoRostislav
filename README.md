@@ -4,7 +4,7 @@
 I'm Rostislav Nikolenko, a software engineering student based in Germany.  
 I mainly focus on backend development and building scalable web applications and APIs.
 I enjoy building practical real-world projects.
-Check out my website rnikolenko.online
+Check out my personal website https://rnikolenko.online
 
 ### 🛠 Tech Stack
 - Backend: Java, Spring Boot, JUnit, PostgreSQL, MongoDB, Redis, RabbitMQ, AWS S3, Stripe
@@ -17,4 +17,4 @@ Check out my website rnikolenko.online
 ### 📫 How to Reach Me
 - Email: rostislavnikolenkowork@gmail.com
 - Phone Number: +4915755896862 
-- LinkedIn: linkedin.com/in/r-nikolenko
+- LinkedIn: https://linkedin.com/in/r-nikolenko
