@@ -4,15 +4,17 @@
 I'm Rostislav Nikolenko, a software engineering student based in Germany.  
 I mainly focus on backend development and building scalable web applications and APIs.
 I enjoy building practical real-world projects.
+Check out my website rnikolenko.online
 
 ### 🛠 Tech Stack
-- Backend: Go, Python, FastAPI, Redis, PostgreSQL, Celery
-- Frontend: React, Vue, TypeScript, Tailwind CSS
-- Other: Docker, Git, Linux, VS Code
+- Backend: Java, Spring Boot, JUnit, PostgreSQL, MongoDB, Redis, RabbitMQ, AWS S3, Stripe
+- Frontend: TypeScript, JavaScript, React, Vue, HTML, CSS
+- Tools: Git, GitHub Actions, Maven, Docker, Docker Compose, Nginx, Linux, Bash, Makefiles
 
 ### 🚧 What I'm Currently Working On
-- Nandev Backend: Backend for a TUI SWE Agent aimed at making the most out of smaller models 
+- Nandev Backend: Backend for a CLI Coding Agent I'm building with a friend. 
 
 ### 📫 How to Reach Me
-- Emaill: rostislavnikolenkowork@gmail.com
+- Email: rostislavnikolenkowork@gmail.com
 - Phone Number: +4915755896862 
+- LinkedIn: linkedin.com/in/r-nikolenko
