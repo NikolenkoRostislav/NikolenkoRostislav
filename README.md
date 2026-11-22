@@ -3,6 +3,7 @@
 ### 👤 Who I Am
 I'm Rostislav Nikolenko, a software engineering student based in Germany.  
 I mainly focus on backend development and enjoy building cool web apps and APIs.
+
 Check out Nandev https://nandev.io/
 
 ### 🛠 Tech Stack
